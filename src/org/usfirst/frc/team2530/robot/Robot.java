@@ -28,7 +28,7 @@ public class Robot extends IterativeRobot {
 	private static final int kMotorPort2 = 1;
 	private static final int kMotorPort3 = 2;
 	private static final int kMotorPort4 = 3;
-
+	//loooool my second comit and creating my own branch
 	private static final int kJoystickPort = 0;
 
 	//private SpeedController m_motor;
